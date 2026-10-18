@@ -66,6 +66,6 @@ Automation scripts for file handling, CSV processing and repetitive tasks.
 
 📧 Email: **rishumishra4303@gmail.com**
 
-📍 Gurugram, Haryana
+📍 D-143, Block D, Sector 51, Noida, Uttar Pradesh 201303
 
 ⭐ Open to Software Engineer, Python Developer and Data Engineer opportunities.
