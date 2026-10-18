@@ -9,7 +9,7 @@ I am a motivated BCA graduate passionate about Software Engineering, Python Deve
 ## 🚀 About Me
 
 - 🎓 BCA Graduate (2026)
-- 📍 Gurugram, Haryana, India
+- 📍 Bloom 60 sector 51 Noida
 - 💻 Python Developer
 - ☁️ AWS Data Engineering Enthusiast
 - 🌱 Currently learning Advanced Python, Git, GitHub and Data Engineering
