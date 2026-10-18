@@ -9,7 +9,7 @@ I am a motivated BCA graduate passionate about Software Engineering, Python Deve
 ## 🚀 About Me
 
 - 🎓 BCA Graduate (2026)
-- 📍 Bloom 60 sector 51 Noida
+- 📍 Sector 51 Noida
 - 💻 Python Developer
 - ☁️ AWS Data Engineering Enthusiast
 - 🌱 Currently learning Advanced Python, Git, GitHub and Data Engineering
@@ -66,6 +66,6 @@ Automation scripts for file handling, CSV processing and repetitive tasks.
 
 📧 Email: **rishumishra4303@gmail.com**
 
-📍 D-143, Block D, Sector 51, Noida, Uttar Pradesh 201303
+📍 Sector 51, Noida, Uttar Pradesh 201303
 
 ⭐ Open to Software Engineer, Python Developer and Data Engineer opportunities.
